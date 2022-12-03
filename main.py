@@ -11,7 +11,7 @@ import random
 
 class App:
     def __init__(self):
-        pyxel.init(450, 600)
+        pyxel.init(450, 601)
         self.player = Player(10, 10)
         self.score = 0
         self.high_score = 0
