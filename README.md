@@ -12,4 +12,4 @@ Z for performing a flip
 
 ## Demo
 
-![](https://imgur.com/a/Dj4wrqZ)
+![demo](https://imgur.com/a/Dj4wrqZ)
