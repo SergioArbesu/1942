@@ -12,4 +12,4 @@ Z for performing a flip
 
 ## Demo
 
-![Watch the demo](https://i.imgur.com/4WGz49s.gif)
+https://github.com/user-attachments/assets/42ceb3df-4d28-4907-884a-a3bd6704872d
